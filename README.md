@@ -1,3 +1,8 @@
+# React-ParticlesJs
+
+A Simple template for making your own beautiful, responsive, interactive web app.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
